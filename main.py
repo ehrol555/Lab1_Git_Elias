@@ -1,3 +1,7 @@
 print("Lab 1: Version Control")
 print("Author: [Ehrol Elias]")
 print("Student ID: TUPM-26-1127")
+print("Lab 1: Version Control")
+print("Author: Ehrol Elias")
+print("Student ID: TUPM-26-1127")
+print("Class Section: [BSECE 1C]")
